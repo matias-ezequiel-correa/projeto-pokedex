@@ -10,10 +10,10 @@
 
 ## Desing: 
 * Desktop:
-[<p align="center"><img height="400em" src="./src/design/desktop-design.png" alt="Projeto Pokedex - Versão Desktop">]<p>
+<p align="center"><img height="400em" src="./src/design/desktop-design.png" alt="Projeto Pokedex - Versão Desktop"><p>
 
 * Mobile:
-[<p align="center"><img width=250 src="./src/design/projeto-pokedex.png" alt="Projeto Pokedex - Versão Mobile">]<p>
+<p align="center"><img width=250 src="./src/design/projeto-pokedex.png" alt="Projeto Pokedex - Versão Mobile"><p>
 
 
 ## Available Scripts
